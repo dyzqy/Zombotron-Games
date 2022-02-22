@@ -1,6 +1,7 @@
 ## Zombotron-Games Info
 Want all zombotron games without having to watch crappy YT vids? you came to the best place!
-also Check the Zombotron site: [http://www.zombotron.com/](http://www.zombotron.com/)
+also Check the **Zombotron site**: [http://www.zombotron.com/](http://www.zombotron.com/)
+This is the "**Official Unofficial**" Discord server: https://discord.gg/3Qde8UT
 
 # How to play flash games?
 
