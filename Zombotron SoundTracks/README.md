@@ -1,5 +1,5 @@
 # Info
-<img src="https://github.com/dyzqy/Zombotron-Games/raw/main/Zombotron%20SoundTracks/cover.jpg" alt="drawing" width="200"/>
-There were all made by **Alexander Ahura** **Enter**
+
+There were all made by **Alexander Ahura**(Thank you :DD)
 **Cover!**
-![](https://github.com/dyzqy/Zombotron-Games/raw/main/Zombotron%20SoundTracks/cover.jpg)
+<img src="https://github.com/dyzqy/Zombotron-Games/raw/main/Zombotron%20SoundTracks/cover.jpg" alt="drawing" width="200"/>
