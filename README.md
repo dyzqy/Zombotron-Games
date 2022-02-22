@@ -1,6 +1,8 @@
 ## Zombotron-Games Info
 Want all zombotron games without having to watch crappy YT vids? you came to the best place!
 
+all these games were made by **AntKarlov**, all rights deserved.
+
 also Check the **Zombotron site**: [http://www.zombotron.com/](http://www.zombotron.com/)
 
 This is the "**Official Unofficial**" Discord server: [https://discord.gg/3Qde8UT](https://discord.gg/3Qde8UT)
