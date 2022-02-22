@@ -9,14 +9,21 @@ This is the "**Official Unofficial**" Discord server: [https://discord.gg/3Qde8U
 
 All you have to do is follow these steps:
 - First, Install [Flash Player](https://github.com/dyzqy/Zombotron-Games/raw/main/Flash%20Player.exe), its where you can play the flash games
-- (it will tell you to Either Preserve or Delete, click on **Preserve**, you will also have to do this for the .swf/Flash file)
+- (it will tell you to Either Preserve or Delete, click on **Preserve**. You will also have to do this for the .swf/Flash file)
 - Second, Download one of the flash games(they end with .swf), for example [**Zombotron 2**](https://github.com/dyzqy/Zombotron-Games/raw/main/Flash%20Games/Zombotron%202.swf)
 - Then drag the .swf file, or the Flash file(Whatever you perefer to call it) on the Flash Player that you installed before
 - And you can enjoy and live your nostaligia again!
 
-### Are you gonna add more games here?
+## FAQ
 
-Probably yes, but im not sure
+**Are you gonna add more games here?**
+> Steam games will not be published on here, but the Apks of the games will be put here
+
+**Does AntKarlov know about this?**
+> im trying to get him to know
+
+**Did you make any of these games?**
+> I never helped the making of any of these cool games.
 
 ### contact me
 - [Twitter](https://twitter.com/Ases_Son)
