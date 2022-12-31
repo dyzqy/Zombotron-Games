@@ -1,7 +1,7 @@
 ## Zombotron-Games Info
 Want all zombotron games without having to watch crappy YT vids? you came to the best place!
 
-all these games were made by **AntKarlov**, Ⓒ**Zombotron/Armor Games** 2022, all rights deserved.
+all these games were made by **AntKarlov**, Ⓒ**Zombotron** and published by **Armor Games** 2022, all rights deserved.
 
 also Check the **Zombotron site**: [http://www.zombotron.com/](http://www.zombotron.com/)
 
